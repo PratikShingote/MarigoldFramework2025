@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-12T22:35:35 IST" name="Default suite" finished-at="2025-05-12T22:36:10 IST" duration-ms="35057">
+    <groups>
+    </groups>
+    <test started-at="2025-05-12T22:35:35 IST" name="Default test" finished-at="2025-05-12T22:36:10 IST" duration-ms="35057">
+      <class name="com.PageObjectModelTestCases.LoginPageTC">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PageObjectModelTestCases.LoginPageTC@7486b455]" started-at="2025-05-12T22:35:35 IST" name="setup" finished-at="2025-05-12T22:35:53 IST" duration-ms="17132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="toVerifySuccessfulLogin()[pri:0, instance:com.PageObjectModelTestCases.LoginPageTC@7486b455]" started-at="2025-05-12T22:35:53 IST" name="toVerifySuccessfulLogin" finished-at="2025-05-12T22:36:06 IST" duration-ms="13678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifySuccessfulLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.PageObjectModelTestCases.LoginPageTC@7486b455]" started-at="2025-05-12T22:36:10 IST" name="tearDown" finished-at="2025-05-12T22:36:10 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.PageObjectModelTestCases.LoginPageTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

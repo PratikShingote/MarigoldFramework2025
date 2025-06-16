@@ -3,7 +3,9 @@
 
 # Log file
 *.log
-
+src/
+target/
+allure-results/
 # BlueJ files
 *.ctxt
 
